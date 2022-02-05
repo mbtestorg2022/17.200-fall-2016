@@ -4,18 +4,143 @@ title: Calendar
 uid: ad67330d-6c36-35e9-bc6a-62e0eb96e6c1
 ---
 
-| WEEK | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Micro Public Opinion: Ideology and Opinion Formation |
-| 3 | Micro Public Opinion: Cognition, Information, and Knowledge |
-| 4 | Micro Public Opinion: Groups, Self-Interest, and Symbolic Politics |
-| 5 | Macro Public Opinion and Representation |
-| 6 | Party Identification |
-| 7 | Social Influence and Context |
-| 8 | Political Communication and Media |
-| 9 | Political Participation and Voter Turnout |
-| 10 | Voting Behavior I: Political Campaigns {{< br >}}{{< br >}} _Preliminary memo on final paper topic due_ {{< br >}}{{< br >}}  |
-| 11 | Voting Behavior II: Vote Choice and Political Accountability |
-| 12 | Other Political Participation |
-| 13 | Political Inequality and Participation/Policy Feedback Effects {{< br >}}{{< br >}} _Final paper due_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Micro Public Opinion: Ideology and Opinion Formation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Micro Public Opinion: Cognition, Information, and Knowledge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Micro Public Opinion: Groups, Self-Interest, and Symbolic Politics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Macro Public Opinion and Representation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Party Identification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Social Influence and Context
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Political Communication and Media
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Political Participation and Voter Turnout
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Voting Behavior I: Political Campaigns
+
+_Preliminary memo on final paper topic due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Voting Behavior II: Vote Choice and Political Accountability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Other Political Participation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Political Inequality and Participation/Policy Feedback Effects
+
+_Final paper due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
